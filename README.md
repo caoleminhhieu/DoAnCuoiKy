@@ -1,4 +1,4 @@
-# DoAnCuoiKy
+# Introduction to Data Science 
 STT nhóm: 33.
 Thành viên:
   1. MSSV: 18120368.    Họ và tên: Cao Lê Minh Hiếu. https://github.com/caoleminhhieu
